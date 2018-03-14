@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=GradeCalc
+comment0.text=\r\n\ This\ program\ calculates\ the\ final\ grade\ for\ a\ course,\r\n\ given\ the\ assessment\ grades\ and\ the\ assessment\ \r\n\ percentages.\ It\ validates\ grades\ >\=0\ and\ <\=100\r\n\ It\ validates\ percentages\ >\=0\ and\ <\=1\r\n\ and\ also\ validates\ the\ sum\ of\ the\ percentages\ \=\ 1\r\n\r\n\ @author\ Maira\ Kotsovoulou\r\n\ @version\ 1.0\ 31/1/2018\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=ArraysSort2
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ArraysSort1\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=list
+comment2.target=boolean\ isSorted(int[])
+comment2.text=\ \r\n\ Q3.\ Create\ a\ method\:\ isSorted,\ accepts\ an\ int\ Array,\ returns\ a\ boolean\r\n
+comment3.params=array
+comment3.target=int\ findMax(int[])
+comment3.text=\ \r\n\ Q4.\ Create\ a\ method\:\ findMax,\ accepts\ an\ int\ Array,\ returns\ an\ int\r\n
+comment4.params=array
+comment4.target=int\ findMin(int[])
+comment4.text=\ \r\n\ Q5.\ Create\ a\ method\:\ findMin,\ accepts\ an\ int\ Array,\ returns\ an\ int\r\n
+numComments=5

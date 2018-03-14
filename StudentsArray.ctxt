@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=StudentsArray
+comment0.text=\r\n\ This\ program\ creates\ an\ Array\ with\ 20\ student\ names\r\n\ entered\ by\ the\ user.\r\n\r\n\ @author\ Maira\ Kotsovoulou\r\n\ @version\ 5\ March\ 2018\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=temp
+comment2.target=java.lang.String[]\ swap(java.lang.String[])
+comment2.text=\r\n\ This\ method\ swaps\ the\ first\ and\ the\ last\ element\ of\ an\ array\ and\ \r\n\ returns\ the\ changed\ array.\r\n\ \r\n\ @param\ String[]\ The\ array\ which\ will\ be\ used\ to\ swap\ its\ elements\r\n\ @return\ String[]\ The\ changed\ array\r\n
+numComments=3

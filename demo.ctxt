@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=demo
+comment0.text=\r\n\ The\ purpose\ of\ this\ program\ is\ to\ teach\r\n\ primitive\ datatypes\ and\ the\ if\ statement.\r\n\r\n\ @author\ Maira\ Kotsovoulou\r\n\ @version\ 0.1\ 24/01/2018\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

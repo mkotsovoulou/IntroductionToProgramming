@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ShopOrders
+comment0.text=\r\n\ ShopOrders\ program\ displays\ a\ coffee\ shop\ menu\r\n\ accepts\ orders,\ calculates\ and\ displays\ the\ price.\r\n\r\n\ @author\ Maira\ Kotsovoulou\r\n\ @version\ 14/2/2018\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=PRICE
+comment2.target=double\ order(double)
+comment3.params=
+comment3.target=void\ bou()
+numComments=4

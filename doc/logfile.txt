@@ -1,0 +1,39 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Programs\BlueJ\jdk\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-Xdoclint:none
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.8
+-classpath
+C:\Programs\BlueJ\lib\bluejcore.jar;C:\Programs\BlueJ\lib\junit-4.11.jar;C:\Programs\BlueJ\lib\hamcrest-core-1.3.jar;C:\Programs\BlueJ\lib\lang-stride.jar;C:\Programs\BlueJ\lib\userlib\pi4j-core.jar;C:\Programs\BlueJ\lib\userlib\pi4j-device.jar;C:\Programs\BlueJ\lib\userlib\pi4j-gpio-extension.jar;C:\Programs\BlueJ\lib\userlib\pi4j-service.jar;C:\Users\f-mkotsovoulou\Desktop\BlueJProjects
+-d
+C:\Users\f-mkotsovoulou\Desktop\BlueJProjects\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+C:\Users\f-mkotsovoulou\Desktop\BlueJProjects\StudentsArray.java
+<---- end of javadoc command ---->
+Loading source file C:\Users\f-mkotsovoulou\Desktop\BlueJProjects\StudentsArray.java...
+Constructing Javadoc information...
+Standard Doclet version 1.8.0_144
+Building tree for all the packages and classes...
+Generating C:\Users\f-mkotsovoulou\Desktop\BlueJProjects\doc\StudentsArray.html...
+C:\Users\f-mkotsovoulou\Desktop\BlueJProjects\StudentsArray.java:33: warning - @param argument "String[]" is not a parameter name.
+Generating C:\Users\f-mkotsovoulou\Desktop\BlueJProjects\doc\package-frame.html...
+Generating C:\Users\f-mkotsovoulou\Desktop\BlueJProjects\doc\package-summary.html...
+Generating C:\Users\f-mkotsovoulou\Desktop\BlueJProjects\doc\constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating C:\Users\f-mkotsovoulou\Desktop\BlueJProjects\doc\allclasses-frame.html...
+Generating C:\Users\f-mkotsovoulou\Desktop\BlueJProjects\doc\allclasses-noframe.html...
+Generating C:\Users\f-mkotsovoulou\Desktop\BlueJProjects\doc\index.html...
+1 warning
