@@ -1,0 +1,3 @@
+2018/03/16
+This is some text
+and      the PrintWriter also prints formatted output
