@@ -41,7 +41,5 @@ public class StudentsList
           System.out.println(x);
        }
        
-       temp.add("XXX");
-       return temp;
     }
 }

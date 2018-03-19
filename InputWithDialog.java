@@ -12,11 +12,8 @@ public class InputWithDialog
        String name;
        String lastname;
        int age;
-       
-      word = JOptionPane.showInputDialog(null, "Type a word for the game");
-       
-       
-       
+     
+        name = JOptionPane.showInputDialog(null, "What's your name?");
        JOptionPane.showMessageDialog(null,"So, your name is :" + name);
               
        lastname = JOptionPane.showInputDialog(null, "What's your lastname?");
