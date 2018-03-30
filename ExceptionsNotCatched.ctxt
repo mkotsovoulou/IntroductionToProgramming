@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ExceptionsNotCatched
+comment0.text=\r\n\ Integer\ numbers\ in\ java\ do\ not\ have\ an\ infinity\ and/or\ NaN\ value\ in\ set\ \r\n\ whereas\ floating\ point\ numbers\ have\ a\ infinity\ and\ \ NaN\ value.\ \r\n\ (According\ to\ IEEE\ 754\ standards\ that\ java\ follows)\r\n\ Division\ by\ Zero\ will\ throw\ an\ exception\ for\ integers\ \r\n\ but\ give\ a\ result\ of\ INFINITY\ for\ floating\ point\ numbers.\ \r\n\ If\ you\ want\ to\ force\ java\ throw\ an\ Exception\ you\ can\ do\ so\ manually...\r\n\ \r\n\r\n\ @author\ Maira\ Kotsovoulou\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
