@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=demoMethods
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ demoMethods\ here.\r\n\r\n\ @author\ Maira\ Kotsovoulou\r\n\ @version\ 20/4/2018\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=first\ last
+comment2.target=java.lang.String\ printName(java.lang.String,\ java.lang.String)
+comment2.text=\r\n\ This\ method\ accepts\ two\ Strings\ (firstName\ and\ lastName)\r\n\ and\ returns\ a\ new\ String\ with\ the\ First\ letter\ of\ the\ firstName\r\n\ and\ the\ LastName.\r\n\ \r\n\ @param\ String\ first\r\n\ @param\ String\ last\r\n\ @return\ String\r\n
+numComments=3

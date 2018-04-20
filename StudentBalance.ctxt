@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=StudentBalance
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ StudentBalance\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=sID
+comment1.target=StudentBalance(int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ StudentBalance\r\n
+comment2.params=amount
+comment2.target=void\ chargeStudent(double)
+comment3.params=amount
+comment3.target=void\ acceptPayment(double)
+comment4.params=
+comment4.target=double\ getBalance()
+comment5.params=
+comment5.target=int\ getID()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

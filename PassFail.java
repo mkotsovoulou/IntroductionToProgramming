@@ -54,14 +54,14 @@ public class PassFail
                 }
             }while (!correct);   
 
-            if (grade>=40) passes++;
+            if (grade>=40) pass++;
 
         } //end of for loop
 
-        System.out.println(passes + " students passed the exam");
-        System.out.println((numberOfStudents - passes) + " students failed the exam");
-        fails = numberOfStudents - passes;
-        if (passes > fails) 
+        System.out.println(pass + " students passed the exam");
+        System.out.println((numberOfStudents - pass) + " students failed the exam");
+        fails = numberOfStudents - pass;
+        if (pass > fails) 
             System.out.println("Excellent Class");
         else  System.out.println("More work is needed");
     }
